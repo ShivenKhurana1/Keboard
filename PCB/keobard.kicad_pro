@@ -487,10 +487,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../../../Users/shivenkhurana/Documents/GitHub/Keboard/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "keobard.step",
       "svg": "",
       "vrml": ""
     },
