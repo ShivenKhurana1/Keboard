@@ -1,3 +1,5 @@
+Keboard is a 60% (i think) mechanical keyboard! It has an oled and a rotary encoder for extra fun! Used zmk for the framework and kicad for the schematics and pcb. I used [onshape](https://cad.onshape.com/documents/cca7080cfaf346b1d03e6a45/w/840138e854193d740b07961a/e/62251870f6a2fd42355be13b) for cad
+
 ### CAD
 <img width="835" height="429" alt="image" src="https://github.com/user-attachments/assets/05f4f9b1-b7ef-4b36-9019-ffa9d6b6ca57" />
 
