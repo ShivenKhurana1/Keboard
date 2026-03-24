@@ -1,15 +1,17 @@
-**CAD**
+### CAD
 <img width="835" height="429" alt="image" src="https://github.com/user-attachments/assets/05f4f9b1-b7ef-4b36-9019-ffa9d6b6ca57" />
 
-**SCHEMATICS**
+### Schematics
 <img width="1018" height="711" alt="image" src="https://github.com/user-attachments/assets/f368d357-4565-4251-a737-eb64fef489a5" />
 
-**PCB**
+### PCB
 <img width="1321" height="483" alt="image" src="https://github.com/user-attachments/assets/5eefee85-8806-464a-b269-443354e246fb" />
 
+### JLCPCB Pricing
+<img width="422" height="472" alt="image" src="https://github.com/user-attachments/assets/7590c65d-20d9-4e37-9883-efdb9f0226a7" />
 
 
-**BOM**
+### BOM
 
 |Item               |Qty  |Link                                            |Price |Running total|
 |-------------------|-----|------------------------------------------------|------|-------------|
