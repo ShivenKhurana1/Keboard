@@ -1,6 +1,6 @@
 # Keboard
 
-A custom 60% mechanical keyboard featuring an OLED display and rotary encoder for enhanced functionality. This open-source project provides everything you need to build your own Keboard, including PCB design files, 3D-printable case models, and QMK firmware.
+A custom 60% mechanical keyboard featuring an OLED display and rotary encoder for enhanced functionality. coded using [onshape](https://cad.onshape.com/documents/cca7080cfaf346b1d03e6a45/w/840138e854193d740b07961a/e/62251870f6a2fd42355be13b)
 
 ## Features
 
