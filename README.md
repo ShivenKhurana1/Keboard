@@ -9,7 +9,6 @@ A custom 60% mechanical keyboard featuring an OLED display and rotary encoder fo
 - **Rotary Encoder**: EC11 rotary encoder for volume control, scrolling, or custom functions
 - **Hot-Swap Sockets**: Kailh hot-swap sockets for easy switch swapping without soldering
 - **RP2040 Controller**: Powered by Raspberry Pi Pico for excellent performance and QMK compatibility
-- **USB-C Connectivity**: Modern USB-C interface for reliable connection
 
 ## Gallery
 
