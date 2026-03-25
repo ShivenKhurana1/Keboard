@@ -1,6 +1,6 @@
-# Clear60
+# keboard
 
-QMK firmware for the Clear60 RP2040 (Raspberry Pi Pico) keyboard.
+QMK firmware for the keboard RP2040 (Raspberry Pi Pico) keyboard.
 
 ## Pins
 
