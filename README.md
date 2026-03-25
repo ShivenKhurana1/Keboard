@@ -1,6 +1,10 @@
 # Keboard
 
+<<<<<<< Updated upstream
 A custom 60% mechanical keyboard featuring an OLED display and rotary encoder for enhanced functionality. coded using [onshape](https://cad.onshape.com/documents/cca7080cfaf346b1d03e6a45/w/840138e854193d740b07961a/e/62251870f6a2fd42355be13b)
+=======
+A custom 60% mechanical keyboard featuring an OLED display and rotary encoder for enhanced functionality. This open-source project provides everything you need to build your own Keboard, including PCB design files, 3D-printable case models, and QMK firmware.
+>>>>>>> Stashed changes
 
 ## Features
 
@@ -9,6 +13,10 @@ A custom 60% mechanical keyboard featuring an OLED display and rotary encoder fo
 - **Rotary Encoder**: EC11 rotary encoder for volume control, scrolling, or custom functions
 - **Hot-Swap Sockets**: Kailh hot-swap sockets for easy switch swapping without soldering
 - **RP2040 Controller**: Powered by Raspberry Pi Pico for excellent performance and QMK compatibility
+<<<<<<< Updated upstream
+=======
+- **USB-C Connectivity**: Modern USB-C interface for reliable connection
+>>>>>>> Stashed changes
 
 ## Gallery
 
@@ -28,16 +36,54 @@ A custom 60% mechanical keyboard featuring an OLED display and rotary encoder fo
 | Keycaps | 1 set | [Aliexpress](https://www.aliexpress.us/item/3256809438061445.html?gatewayAdapt=glo2usa4itemAdapt) | $13 | $13 |
 | Switches | 90pc | [Akko V3 Creamy Purple Pro Switch](https://en.akkogear.com/product/akko-v3-creamy-purple-pro-switch/?attribute_quantity=45+pcs&wmc-currency=USD&srsltid=AfmBOoqiLOo9XCgXVcATHmXp4RFQoOtLwqSfavUuphAmf-L9G720cljCm9w) | $30.25 | $43 |
 | OLED | 1 | [0.91 Inch OLED Display](https://www.alibaba.com/product-detail/p_1601269142088.html?mark=google_shopping&src=sem_ggl&field=UG&from=sem_ggl&cmpgn=22635874527&adgrp=177485315221&fditm=&tgt=pla-2412849993011&locintrst=&locphyscl=9007806&mtchtyp=&ntwrk=g&device=c&dvcmdl=&creative=756472634791&plcmnt=&plcmntcat=&aceid=&position=&gad_source=1&gad_campaignid=22635874527&gclid=Cj0KCQjw7IjOBhDyARIsAFzrWQzOcE1ugi0JUNT9wvppSxNHIx99Q_F3FQKquvFJeU9i_k6LSgOnZZAaAgNNEALw_wcB) | $8.31 | $52 |
+<<<<<<< Updated upstream
 | Raspberry Pi Pico | 1 | [Digikey]([https://robu.in/product/raspberry-pi-pico/](https://www.digikey.com/en/products/detail/raspberry-pi/SC0917/16608257)) | $5 | $57 |
 | EC11 rotary encoder | 1 | [Keebio Rotary Encoder - EC11](https://keeb.io/products/rotary-encoder-ec11?srsltid=AfmBOopoJ1Veuz0zPLSURkPBmwcIRPg8Xms0PyKFOPpRmh6pC_TE71EN) | $9.37 | $66 |
 | PCB | 1 | JLCPCB | $25.61 | $92 |
 | Hotswap sockets | 70 | [Aliexpress](https://www.aliexpress.us/item/3256807039037559.html?src=google&pdp_npi=4%40dis%21USD%212.61%211.34%21%21%21%21%21%40%2112000039872158635%21ppc%21%21%21&gatewayAdapt=glo2usa) | $9.54 | $101 |
 | Stabilizer Set | 1 | [Cherry Clip-in Stabilizers + Geon Balanced Wires](https://divinikey.com/collections/keyboard-stabilizers/products/cherry-clip-in-stabilizers-geon-balanced-wires) | $20.17 | $121 |
 | Diodes | 70 | [Digikey](https://www.digikey.com/en/products/detail/diodes-incorporated/1N4148W-13-F/1933928) | $9.61 | $131 |
+=======
+| Raspberry Pi Pico | 1 | [Robu](https://robu.in/product/raspberry-pi-pico/) | $10.95 | $63 |
+| EC11 rotary encoder | 1 | [Keebio Rotary Encoder - EC11](https://keeb.io/products/rotary-encoder-ec11?srsltid=AfmBOopoJ1Veuz0zPLSURkPBmwcIRPg8Xms0PyKFOPpRmh6pC_TE71EN) | $9.37 | $72 |
+| PCB | 1 | JLCPCB | $25.61 | $97 |
+| Hotswap sockets | 70 | [Aliexpress](https://www.aliexpress.us/item/3256807039037559.html?src=google&pdp_npi=4%40dis%21USD%212.61%211.34%21%21%21%21%21%40%2112000039872158635%21ppc%21%21%21&gatewayAdapt=glo2usa) | $9.54 | $107 |
+| Stabilizer Set | 1 | [Cherry Clip-in Stabilizers + Geon Balanced Wires](https://divinikey.com/collections/keyboard-stabilizers/products/cherry-clip-in-stabilizers-geon-balanced-wires) | $20.17 | $127 |
+| Diodes | 70 | [Digikey](https://www.digikey.com/en/products/detail/diodes-incorporated/1N4148W-13-F/1933928) | $9.61 | $137 |
+>>>>>>> Stashed changes
 
 **Total Estimated Cost: ~$137**
 
 ### PCB Pricing Example
 <img width="422" height="472" alt="JLCPCB Pricing" src="https://github.com/user-attachments/assets/7590c65d-20d9-4e37-9883-efdb9f0226a7" />
 
+<<<<<<< Updated upstream
 
+=======
+## Technical Specifications
+
+- **Controller**: Raspberry Pi Pico (RP2040)
+- **Matrix**: 5x14 (70 keys maximum)
+- **Diode Direction**: COL2ROW
+- **Pin Configuration**:
+  - Rows: GP14, GP15, GP16, GP17, GP18
+  - Columns: GP0-GP13
+  - Encoder: GP27 (A), GP26 (B)
+  - OLED I2C: GP20 (SDA), GP21 (SCL)
+- **USB VID/PID**: 0xFEED/0x6060
+
+## Contributing
+
+This is an open-source project. Feel free to submit issues, fork the repository, and contribute improvements to the design, firmware, or documentation.
+
+## License
+
+This project is open-source. Please refer to the license file for specific terms.
+
+## Support
+
+For build questions, firmware issues, or general support:
+1. Check the firmware README in `/Firmware/keboard/readme.md`
+2. Review QMK documentation for firmware-related issues
+3. Open an issue in this repository for project-specific questions
+>>>>>>> Stashed changes
